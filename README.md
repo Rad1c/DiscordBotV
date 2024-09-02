@@ -1,0 +1,1 @@
+CensorBot is a Discord bot designed to maintain a clean and respectful environment on your server. Utilizing the profanity-filter Python package, this bot actively monitors messages and censors any forbidden words
